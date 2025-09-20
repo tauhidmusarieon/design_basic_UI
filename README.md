@@ -8,4 +8,16 @@ I’m a beginner app developer just starting out, and this is my simple Flutter 
 - Fun loading messages for each section
 - Clean UI with custom colors
 
+# Screenshots
+
+Here are some screenshots of the app:
+
+![Flutter Image 1](images/flutter01.png)
+
+![Flutter Image 2](images/flutter02.png)
+
+![Flutter Image 3](images/flutter03.png)
+
+
+
 
